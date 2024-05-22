@@ -14,7 +14,7 @@ The set contains 15 columns and over 400
 https://www.kaggle.com/datasets/mohamedhanyyy/top-football-leagues-scorers
 
 # Overvievv 
-[Goalscorers.txt](https://github.com/Jesusp123/GoalScorersPython/files/15397072/Goalscorers.txt)
+[Goalscorers.txt](https://github.com/Jesusp123/GoalScorersPython/files/15397099/Goalscorers.txt)
 
 # Process
 
