@@ -13,7 +13,7 @@ The Dataset used contains a list of the best goalscorers in the top Football Eur
 The set contains 15 columns and over 400 rovvs
 [Goalscorers.csv](https://github.com/user-attachments/files/15523835/Goalscorers.csv)
 
-# Overvievv 
+# OvervieW
 THIS IS THE FINAL CODE TO USED TO CLEAN THE DATASET
 [Goalscorers.txt](https://github.com/Jesusp123/GoalScorersPython/files/15397099/Goalscorers.txt)
 
