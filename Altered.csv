@@ -1,0 +1,661 @@
+Country,Player Names,Matches_Played,Mins,Goals,Year
+Spain,Juanmi Callejon,19,1849,11,2016
+Spain,Antoine Griezmann,36,3129,16,2016
+Spain,Luis Suarez,34,2940,28,2016
+Spain,Ruben Castro,32,2842,13,2016
+Spain,Kevin Gameiro,21,1745,13,2016
+Spain,Cristiano Ronaldo,29,2634,25,2016
+Spain,Karim Benzema,23,1967,11,2016
+Spain,Neymar ,30,2694,13,2016
+Spain,Iago Aspas,25,2354,19,2016
+Spain,Sergi Enrich,31,2904,11,2016
+Spain,Aduriz ,27,2480,16,2016
+Spain,Sandro Ramlrez,28,2340,14,2016
+Spain,Lionel Messi,32,2910,37,2016
+Spain,Gerard Moreno,37,3361,13,2016
+Spain,Morata,14,1392,15,2016
+Spain,Wissam Ben Yedder,20,1735,11,2016
+Spain,Willian Jose,27,2102,12,2016
+Spain,Andone ,32,2984,12,2016
+Spain,Cedric Bakambu,17,1633,10,2016
+Spain,Isco,18,1690,10,2016
+Italy,Mohamed Salah,29,2567,15,2016
+Italy,Gregoire Defrel,23,2054,12,2016
+Italy,Ciro Immobile,35,3294,22,2016
+Italy,Nikola Kalinic,26,2648,15,2016
+Italy,Dries Mertens,28,2671,28,2016
+Italy,Alejandro Gomez,37,3247,16,2016
+Italy,Jose CallejOn,37,3276,14,2016
+Italy,Iago Falque,31,2633,12,2016
+Italy,Giovanni Simeone,29,2764,12,2016
+Italy,Mauro Icardi,34,3188,24,2016
+Italy,Diego Falcinelli,35,3308,13,2016
+Italy,Cyril Thereau,31,2585,12,2016
+Italy,Edin Dzeko,33,3194,29,2016
+Italy,Lorenzo Insigne,35,3031,18,2016
+Italy,Fabio Quagliarella,35,3030,12,2016
+Italy,Borriello ,30,2737,16,2016
+Italy,Carlos Bacca,26,2228,13,2016
+Italy,Gonzalo Higuain,32,3138,24,2016
+Italy,Keita Balde,21,2033,16,2016
+Italy,Andrea Belotti,34,3241,26,2016
+Germany,Fin Bartels,23,2315,8,2016
+Germany,Lars Stindl,29,2673,11,2016
+Germany,Serge Gnabry,23,2028,11,2016
+Germany,Wagner ,30,2695,11,2016
+Germany,Andrej Kramaric,28,2449,15,2016
+Germany,Florian Niederlechner,29,2477,11,2016
+Germany,Robert Lewandowski,31,2871,30,2016
+Germany,Emil Forsberg,27,2420,8,2016
+Germany,Timo Werner,28,2496,21,2016
+Germany,Nils Petersen,7,1351,10,2016
+Germany,Vedad Ibisevic,32,2772,12,2016
+Germany,Mario Gomez,32,2950,16,2016
+Germany,Maximilian Philipp,23,2000,9,2016
+Germany,Adam Szalai,7,833,8,2016
+Germany,Pierre-Emerick Aubameyang,31,2894,31,2016
+Germany,Guido Burgstaller,17,1494,9,2016
+Germany,Max Kruse,23,2121,15,2016
+Germany,Chicharito ,20,1895,11,2016
+Germany,Anthony Modeste,34,3075,25,2016
+Germany,Arjen Robben,21,1882,13,2016
+England,Alexis Sanchez,36,3385,24,2016
+England,Romelu Lukaku,36,3448,25,2016
+England,Harry Kane,29,2636,29,2016
+England,Jamie Vardy,33,2938,13,2016
+England,Christian Benteke,36,3299,15,2016
+England,Pedro None,26,2250,10,2016
+England,Eden Hazard,36,3101,16,2016
+England,Roberto Firmino,34,3228,11,2016
+England,Sadio Mane,26,2347,13,2016
+England,Philippe Coutinho,28,2327,13,2016
+England,Diego Costa,35,3232,20,2016
+England,Dele Alli,35,3182,18,2016
+England,Sergio Aguero,25,2444,21,2016
+England,Jermain Defoe,37,3511,15,2016
+England,Fernando Llorente,28,2562,15,2016
+England,Michail Antonio,29,2493,11,2016
+England,Zlatan Ibrahimovic,27,2578,17,2016
+England,Olivier Giroud,11,1311,12,2016
+England,Son Heung-Min,23,2174,14,2016
+England,Joshua King,31,2856,16,2016
+Brazil,Diego Souza,34,2981,14,2016
+Brazil,Pablo ,30,2757,9,2016
+Brazil,Robinho ,26,2234,12,2016
+Brazil,Kempes ,19,1684,9,2016
+Brazil,Gabriel Jesus,26,2448,12,2016
+Brazil,Bruno Rangel ,19,2016,10,2016
+Brazil,Rogerio ,22,2051,9,2016
+Brazil,Vitor Bueno,32,2670,10,2016
+Brazil,Marinho ,27,2360,12,2016
+Brazil,Grafite ,29,2511,13,2016
+Brazil,Andres Chavez,19,1786,9,2016
+Brazil,Cicero Semedo,35,3322,9,2016
+Brazil,Sassa,13,1412,12,2016
+Brazil,Giorgian de Arrascaeta,30,2423,9,2016
+Brazil,Keno ,32,3093,10,2016
+Brazil,Fred ,33,2821,14,2016
+Brazil,Kleber Gladiador,23,2143,9,2016
+Brazil,Pottker ,19,2007,14,2016
+Brazil,Jonathan Copete,22,2147,10,2016
+Brazil,Ricardo Oliveira,20,1834,11,2016
+Spain,Angel Rodriguez,26,2390,13,2017
+Spain,Antoine Griezmann,30,2596,19,2017
+Spain,Iago Aspas,33,3053,22,2017
+Spain,Gareth Bale,20,1872,16,2017
+Spain,Rodrigo None,31,2770,16,2017
+Spain,Luis Suarez,32,3008,25,2017
+Spain,Sergio Leon,23,2071,11,2017
+Spain,Lionel Messi,32,3123,33,2017
+Spain,Maxi Gomez,35,3168,18,2017
+Spain,Mikel Oyarzabal,31,2864,12,2017
+Spain,Willian Josa,32,2869,15,2017
+Spain,Simone Zaza,23,2163,13,2017
+Spain,Cristiano Ronaldo,27,2375,26,2017
+Spain,Portu ,35,3081,11,2017
+Spain,Gerard Moreno,38,3555,16,2017
+Spain,Cristhian Stuani,32,2785,21,2017
+Spain,Carlos Bacca,30,2572,15,2017
+Spain,Santi Mina,17,1630,12,2017
+Spain,Morales ,35,3180,10,2017
+Spain,Munir ,28,2517,10,2017
+Italy,Jose Callejon,38,3359,10,2017
+Italy,Sergej Milinkovic-Savic,33,3014,12,2017
+Italy,Duvan Zapata,24,2229,11,2017
+Italy,Paulo Dybala,26,2407,22,2017
+Italy,Gonzalo Higuain,32,2935,16,2017
+Italy,Mirco Antenucci,28,2735,11,2017
+Italy,Fabio Quagliarella,33,2864,19,2017
+Italy,Luis Alberto,32,2797,11,2017
+Italy,Roberto Inglese,33,2914,12,2017
+Italy,Andrea Belotti,29,2854,10,2017
+Italy,Josip Ilicic,21,2115,11,2017
+Italy,Giovanni Simeone,36,3157,14,2017
+Italy,Ivan Perisic,37,3491,11,2017
+Italy,Edin Dzeko,33,3177,16,2017
+Italy,Leonardo Pavoletti,31,2897,11,2017
+Italy,Ciro Immobile,33,2799,29,2017
+Italy,Dries Mertens,35,3133,18,2017
+Italy,Mauro Icardi,34,3096,29,2017
+Italy,Kevin Lasagna,26,2244,12,2017
+Italy,Iago Falque,34,2950,12,2017
+Germany,Robert Lewandowski,24,2247,29,2017
+Germany,Niclas Fullkrug,26,2507,14,2017
+Germany,Guido Burgstaller,24,2447,11,2017
+Germany,Salomon Kalou,27,2272,12,2017
+Germany,Thorgan Hazard,33,3062,10,2017
+Germany,Jean-Kevin Augustin,14,1330,9,2017
+Germany,Serge Gnabry,20,1555,10,2017
+Germany,Andrej Kramaric,22,2353,13,2017
+Germany,Nils Petersen,24,2362,15,2017
+Germany,Sandro Wagner ,18,1666,12,2017
+Germany,Timo Werner,28,2596,13,2017
+Germany,Leon Bailey,25,2317,9,2017
+Germany,Daniel Didavi,26,2312,9,2017
+Germany,Alfred Finnbogason,22,1879,12,2017
+Germany,Davie Selke,19,1974,10,2017
+Germany,Mark Uth,24,2279,14,2017
+Germany,Michael Gregoritsch,30,2626,13,2017
+Germany,Julian Brandt,26,2419,9,2017
+Germany,Kevin Volland,30,2693,14,2017
+Germany,Pierre-Emerick Aubameyang,16,1480,13,2017
+Brazil,Roger ,19,1465,11,2017
+Brazil,Arthur Caike,34,2824,8,2017
+Brazil,Everton ,14,1224,8,2017
+Brazil,Hernanes ,19,1222,9,2017
+Brazil,Luiz Fernando,21,1792,9,2017
+Brazil,Wellington Paulista,30,2278,9,2017
+Brazil,Fred ,27,1865,12,2017
+Brazil,Santiago Trellez,23,1694,10,2017
+Brazil,Jo,34,2847,18,2017
+Brazil,Thiago Neves,30,2383,9,2017
+Brazil,Bruno Henrique,28,2136,8,2017
+Brazil,Dudu ,23,1751,10,2017
+Brazil,Diego ,24,2089,10,2017
+Brazil,Diego Souza,26,1953,11,2017
+Brazil,Lucca ,37,2933,13,2017
+Brazil,Henrique Dourado,32,2472,19,2017
+Brazil,Andre,35,2931,16,2017
+Brazil,Edigar Junio ,21,1547,12,2017
+Brazil,Junior  Dutra,27,2022,9,2017
+Brazil,Luiz Fernando,21,1769,9,2017
+Spain,Karim Benzema,35,3072,21,2018
+Spain,Maxi Gomez,33,3148,13,2018
+Spain,Iago Aspas,26,2369,20,2018
+Spain,Jaime Mata,27,2569,14,2018
+Spain,Inaki Williams,36,3148,12,2018
+Spain,Cristhian Stuani,30,2897,19,2018
+Spain,Chimy Avila,20,2131,10,2018
+Spain,Raul de Tomas,32,2964,14,2018
+Spain,Luis Suarez,31,2954,21,2018
+Spain,Roger ,23,1999,13,2018
+Spain,Willian Jose,28,2471,12,2018
+Spain,Pablo Sarabia,30,2877,13,2018
+Spain,Mikel Oyarzabal,36,3300,13,2018
+Spain,Antoine Griezmann,37,3349,15,2018
+Spain,Borja Iglesias,35,3246,17,2018
+Spain,Lionel Messi,29,2849,36,2018
+Spain,Jorge Molina,28,2819,14,2018
+Spain,Charles,17,1861,14,2018
+Spain,Wissam Ben Yedder,31,2975,18,2018
+Spain,Morales ,35,3381,12,2018
+Italy,Arkadiusz Milik,27,2560,17,2018
+Italy,Duvan Zapata,32,3064,23,2018
+Italy,Lorenzo Insigne,24,2191,10,2018
+Italy,Cristiano Ronaldo,30,2857,21,2018
+Italy,Ciro Immobile,31,3046,15,2018
+Italy,Andrea Belotti,37,3533,15,2018
+Italy,Fabio Quagliarella,37,3269,26,2018
+Italy,Mandzukic None,23,2125,9,2018
+Italy,Edin Dzeko,28,2741,9,2018
+Italy,Andrea Petagna,35,3196,16,2018
+Italy,Roberto Inglese,23,2075,9,2018
+Italy,Josip Ilicic,23,2262,12,2018
+Italy,Francesco Caputo,38,3641,16,2018
+Italy,Leonardo Pavoletti,31,2903,16,2018
+Italy,Gregoire Defrel,26,2388,11,2018
+Italy,Dries Mertens,23,2416,16,2018
+Italy,Stephan El Shaarawy,23,2213,11,2018
+Italy,Gervinho ,27,2430,11,2018
+Italy,Mauro Icardi,24,2314,11,2018
+Italy,Krzysztof Piatek,34,3147,23,2018
+Germany,Andrej Kramaric,28,2527,16,2018
+Germany,Alassane Plea,28,2613,12,2018
+Germany,Kai Havertz,33,3033,16,2018
+Germany,Luka Jovic,25,2353,17,2018
+Germany,Ante Rebic,23,2075,11,2018
+Germany,Jadon Sancho,26,2602,13,2018
+Germany,Alfred Finnbogason,17,1385,10,2018
+Germany,Ondrej Duda,30,2661,11,2018
+Germany,Paco Alcacer,11,1312,18,2018
+Germany,Timo Werner,29,2582,16,2018
+Germany,Benito Raman,19,1781,10,2018
+Germany,Kevin Volland,32,2945,14,2018
+Germany,Wout Weghorst,33,3061,17,2018
+Germany,Ishak Belfodil,20,1965,18,2018
+Germany,Marco Reus,27,2432,17,2018
+Germany,Jean-Philippe Mateta,29,2587,14,2018
+Germany,Sebastien Haller,23,2312,15,2018
+Germany,Max Kruse,32,2975,11,2018
+Germany,Robert Lewandowski,33,3090,22,2018
+Germany,Yussuf Poulsen,27,2556,15,2018
+France,Angel Di Maria,28,2418,12,2018
+France,Remi Oudin,32,2719,10,2018
+France,Nicolas Pepe,37,3533,22,2018
+France,Emiliano Sala,16,1434,12,2018
+France,Jonathan Bamba,35,3190,13,2018
+France,M'Baye Niang,19,1911,11,2018
+France,Neymar ,16,1517,15,2018
+France,Edinson Cavani,20,1747,18,2018
+France,Stephane Bahoken,31,2541,11,2018
+France,Max Gradel,36,3446,11,2018
+France,Florian Thauvin,30,2741,16,2018
+France,Kylian Mbappe-Lottin,24,2488,33,2018
+France,Wahbi Khazri,32,3000,13,2018
+France,Falcao ,29,2699,15,2018
+France,Gaetan Laborde,36,3115,11,2018
+France,Andy Delort,36,3263,14,2018
+France,Moussa Dembele,21,2154,15,2018
+France,Memphis Depay,29,2900,10,2018
+France,Lebo Mothiba,21,2154,10,2018
+France,Francois Kamano,29,2698,10,2018
+England,Luka Milivojevic,38,3651,12,2018
+England,Joshua King,34,3143,12,2018
+England,Paul Pogba,34,3233,13,2018
+England,Mohamed Salah,37,3417,22,2018
+England,Ashley Barnes,26,2569,12,2018
+England,Glenn Murray,30,2684,13,2018
+England,Richarlison ,32,2822,14,2018
+England,Sadio Mane,35,3236,22,2018
+England,Callum Wilson,29,2714,14,2018
+England,Son Heung-Min,23,2152,12,2018
+England,Harry Kane,27,2580,17,2018
+England,Sergio Aguero,31,2566,21,2018
+England,Eden Hazard,32,3115,16,2018
+England,Pierre-Emerick Aubameyang,30,2905,22,2018
+England,Gylfi Sigurdsson,36,3302,13,2018
+England,Raheem Sterling,31,2930,17,2018
+England,Jamie Vardy,30,2886,18,2018
+England,Ayoze Perez,34,3099,12,2018
+England,Alexandre Lacazette,27,2670,14,2018
+England,Raul Jimenez,36,3285,13,2018
+Brazil,Lucas Paqueta,31,2962,10,2018
+Brazil,Everton ,24,2175,9,2018
+Brazil,Juan Cazares,25,2487,8,2018
+Brazil,Deyverson ,11,1367,9,2018
+Brazil,Pablo ,30,2808,12,2018
+Brazil,Leandro Damiao ,19,3236,10,2018
+Brazil,Yago Pikachu,34,3192,10,2018
+Brazil,Rodrygo ,30,2850,8,2018
+Brazil,Andres Rios,23,2188,7,2018
+Brazil,Roger Guedes ,11,1081,9,2018
+Brazil,Leandro Pereira ,26,2575,11,2018
+Brazil,Diego Souza,32,4177,11,2018
+Brazil,Pedro ,19,1689,9,2018
+Brazil,Nico Lupez,26,3931,11,2018
+Brazil,Nene ,29,2636,8,2018
+Brazil,Ricardo Oliveira,35,3231,13,2018
+Brazil,Gilberto ,18,1623,8,2018
+Brazil,Henrique ,27,2595,9,2018
+Brazil,Willian ,21,2153,10,2018
+Brazil,Gabriel Barbosa,34,3140,18,2018
+USA,Diego Rossi,35,3277,17,2019
+USA,Josef Martinez,32,3050,28,2019
+USA,Zlatan Ibrahimovic,31,2998,31,2019
+USA,Chris Wondolowski,24,2169,15,2019
+USA,Nani ,26,2464,12,2019
+USA,Kacper Przybylko,25,2420,15,2019
+USA,Kei Kamara,29,2740,14,2019
+USA,C.J. Sapong,29,2734,13,2019
+USA,Gyasi Zardes,28,2657,13,2019
+USA,Heber ,18,1742,15,2019
+USA,Mauro Manotas,28,2717,13,2019
+USA,Brian Fernandez,16,1555,11,2019
+USA,Alejandro Pozuelo,32,3104,14,2019
+USA,Felipe Gutierrez,31,2905,12,2019
+USA,Jordan Morris,28,2521,13,2019
+USA,Raul Ruidiaz,24,2346,15,2019
+USA,Jozy Altidore,18,1834,12,2019
+USA,Carlos Vela,33,3128,36,2019
+USA,Nemanja Nikolic,25,2118,12,2019
+USA,Alexandru Mitrita,25,2398,12,2019
+Spain,Luis Suarez,22,2126,16,2019
+Spain,Karim Benzema,36,3207,21,2019
+Spain,Joselu,31,2990,11,2019
+Spain,Carlos Fernandez,21,2428,10,2019
+Spain,Ante Budimir,33,2923,13,2019
+Spain,Mikel Oyarzabal,36,3247,10,2019
+Spain,Willian Jose,24,2171,11,2019
+Spain,Gerard Moreno,33,2831,18,2019
+Spain,Lucas Perez,29,2673,11,2019
+Spain,Loren Moron,21,2222,10,2019
+Spain,Raul Garcla,33,3034,15,2019
+Spain,Morata ,25,2248,12,2019
+Spain,Angel Rodriguez,9,1611,10,2019
+Spain,Lionel Messi,32,3067,25,2019
+Spain,Sergio Ramos,35,3100,11,2019
+Spain,Lucas Ocampos,31,2929,14,2019
+Spain,Cazorla ,29,2513,11,2019
+Spain,Roger ,26,2436,11,2019
+Spain,Jaime Mata,33,2923,11,2019
+Spain,Iago Aspas,37,3474,14,2019
+Portugal ,Pote ,7,631,9,2019
+Portugal ,Tiquinho Soares,20,1867,10,2019
+Portugal ,Eduardo Mancha,4,396,2,2019
+Portugal ,Paulinho ,27,2451,17,2019
+Portugal ,Alex Telles,28,2732,11,2019
+Portugal ,Bruno Viana,8,780,2,2019
+Portugal ,Mehrdad Mohammadi,27,2495,8,2019
+Portugal ,Carlos Valenzuela,7,575,2,2019
+Portugal ,Ruben Lameiras,7,624,4,2019
+Portugal ,Moussa Marega,27,2471,12,2019
+Portugal ,Gian-Luca Waldschmidt,7,605,4,2019
+Portugal ,Samuel Lino,6,591,3,2019
+Portugal ,Andre Andre,8,645,2,2019
+Portugal ,Mehdi Taremi,26,2537,18,2019
+Portugal ,Carlos Vinicius,19,1928,18,2019
+Portugal ,Sergio Oliveira,7,642,4,2019
+Portugal ,Douglas Tanque,23,2054,11,2019
+Portugal ,Fabio Abreu,27,2570,13,2019
+Portugal ,Brayan Riascos,8,736,3,2019
+Portugal ,Alex Telles ,3,280,2,2019
+Portugal ,Fabio Martins,29,2633,12,2019
+Portugal ,Haris  Seferovic,2,337,6,2019
+Portugal ,Douglas Tanque,7,644,2,2019
+Portugal ,Joao Teixeira,14,1416,8,2019
+Portugal ,Bruno Fernandes,17,1656,8,2019
+Portugal ,Angel Gomes,6,530,3,2019
+Portugal ,Toni MartÃ­nez,27,2312,10,2019
+Portugal ,Pizzi ,33,2981,18,2019
+Portugal ,Bozhidar Kraev,28,2399,8,2019
+Portugal ,Sandro Lima,29,2747,10,2019
+Portugal ,Rodrigo Pinho,18,1732,9,2019
+Portugal ,Rodrigo Pinho,7,646,6,2019
+Portugal ,Thiago Santana,8,714,6,2019
+Portugal ,Everton ,8,622,2,2019
+Portugal ,Trincao ,17,1749,8,2019
+Portugal ,Andraz Sporar,3,356,2,2019
+Portugal ,Ricardo Horta,31,2750,12,2019
+Portugal ,Bruno Duarte,6,509,2,2019
+Portugal ,Nuno Santos,6,567,3,2019
+Portugal ,Bruno Duarte,18,1684,8,2019
+Italy,Arkadiusz Milik,19,1870,11,2019
+Italy,Romelu Lukaku,33,3156,23,2019
+Italy,Francesco Caputo,33,3125,21,2019
+Italy,Edin Dzeko,31,3075,16,2019
+Italy,Andrea Petagna,33,3263,12,2019
+Italy,Cristiano Ronaldo,33,3127,31,2019
+Italy,Domenico Berardi,29,2654,14,2019
+Italy,Joao Pedro,35,3394,18,2019
+Italy,Josip Ilicic,21,1786,15,2019
+Italy,Andreas Cornelius,17,1637,12,2019
+Italy,Giovanni Simeone,34,3115,12,2019
+Italy,Ciro Immobile,36,3371,36,2019
+Italy,Marco Mancosu,28,2627,14,2019
+Italy,Duvan Zapata,25,2143,18,2019
+Italy,Lautaro Martrinez,29,2581,14,2019
+Italy,Luis Muriel,10,1370,18,2019
+Italy,Fabio Quagliarella,26,2413,11,2019
+Italy,Gianluca Lapadula,20,1906,11,2019
+Italy,Ante Rebic,15,1514,11,2019
+Italy,Andrea Belotti,34,3214,16,2019
+Germany,Jadon Sancho,25,2387,17,2019
+Germany,Timo Werner,33,2744,28,2019
+Germany,Wout Weghorst,30,2893,16,2019
+Germany,Andrej Kramaric,14,1502,12,2019
+Germany,Marco Reus,18,1561,11,2019
+Germany,Kai Havertz,29,2586,12,2019
+Germany,Marcus Thuram,28,2296,10,2019
+Germany,Rouwen Hennings,27,2592,15,2019
+Germany,Robert Lewandowski,31,2783,34,2019
+Germany,Andre Silva,16,1694,12,2019
+Germany,Florian Niederlechner,31,2846,13,2019
+Germany,Erling Haaland,11,1116,12,2019
+Germany,Jhon Cordoba,23,2108,13,2019
+Germany,Kevin Volland,24,2159,10,2019
+Germany,Nils Petersen,24,2595,11,2019
+Germany,Lars Stindl,14,1518,9,2019
+Germany,Robin Quaison,31,2718,13,2019
+Germany,Serge Gnabry,26,2216,12,2019
+Germany,Sebastian Andersson,31,2813,12,2019
+Germany,Alassane Plea,25,2252,10,2019
+France,Neymar ,15,1396,12,2019
+France,Dimitri Payet,22,2057,9,2019
+France,Mauro Icardi,14,1353,12,2019
+France,Memphis Depay,12,1077,9,2019
+France,Kasper Dolberg,22,1994,11,2019
+France,M'Baye Niang,24,2276,10,2019
+France,Adrien Thomasson,24,2168,7,2019
+France,Andy Delort,26,2409,9,2019
+France,Dario Benedetto,25,2214,11,2019
+France,Wissam Ben Yedder,25,2321,18,2019
+France,Ludovic Ajorque,24,2163,8,2019
+France,Islam Slimani,14,1378,9,2019
+France,Adrien Hunou,13,1325,8,2019
+France,Denis Bouanga,23,2173,10,2019
+France,Sehrou Guirassy,23,2030,9,2019
+France,Ãngel Di Maria,23,2106,8,2019
+France,Moussa Dembele,24,2358,16,2019
+France,Habib Diallo,26,2344,12,2019
+France,Kylian Mbappe-Lottin,17,1611,18,2019
+France,Victor Osimhen,25,2434,13,2019
+England,Dominic Calvert-Lewin,30,2849,13,2019
+England,Raul Jimenez,37,3445,17,2019
+England,Kevin De Bruyne,32,2984,13,2019
+England,Jamie Vardy,34,3271,23,2019
+England,Raheem Sterling,30,2836,20,2019
+England,Sadio Mane,31,2933,18,2019
+England,Chris Wood,29,2616,14,2019
+England,Anthony Martial,31,2788,17,2019
+England,Riyad Mahrez,21,2130,11,2019
+England,Son Heung-Min,28,2663,11,2019
+England,Marcus Rashford,31,2826,17,2019
+England,Mohamed Salah,33,3045,19,2019
+England,Gabriel Jesus,21,2209,14,2019
+England,Danny Ings,32,3009,22,2019
+England,Pierre-Emerick Aubameyang,35,3392,22,2019
+England,Harry Kane,29,2801,18,2019
+England,Richarlison  ,36,3289,13,2019
+England,Teemu Pukki,33,3087,11,2019
+England,Tammy Abraham,25,2380,15,2019
+England,Sergio Aguero,18,1566,16,2019
+Brazil,Dudu ,34,3313,9,2019
+Brazil,Thiago Galhardo,31,2901,12,2019
+Brazil,Paolo Guerrero,23,2193,10,2019
+Brazil,Pepe,14,1836,8,2019
+Brazil,Henrique ,33,3149,10,2019
+Brazil,Giorgian de Arrascaeta,22,1929,12,2019
+Brazil,Marinho ,18,1917,8,2019
+Brazil,Everton ,23,2498,11,2019
+Brazil,Gilberto ,27,2524,14,2019
+Brazil,Michael ,35,3180,10,2019
+Brazil,Carlos Sanchez,27,2648,12,2019
+Brazil,Everaldo ,33,3233,14,2019
+Brazil,Artur ,32,3049,7,2019
+Brazil,Gabriel Barbosa,29,2716,25,2019
+Brazil,Wellington Paulista,28,2650,13,2019
+Brazil,Bruno Henrique,29,2822,21,2019
+Brazil,Marcelo  Cirino,19,2062,9,2019
+Brazil,Yeferson Soteldo,31,2883,9,2019
+Brazil,Eduardo Sasha,34,3181,14,2019
+Brazil,Rafael Moura,19,1661,9,2019
+ Netherlands,Antony None,8,575,4,2019
+ Netherlands,Quincy Promes,4,574,4,2019
+ Netherlands,Dusan Tadic,9,719,7,2019
+ Netherlands,Armando Broja,6,569,5,2019
+ Netherlands,Steven Berghuis,10,896,9,2019
+ Netherlands,Michael de Leeuw,8,723,5,2019
+ Netherlands,Lois Openda,10,775,5,2019
+ Netherlands,Danilo Nome,10,827,9,2019
+ Netherlands,Lennart Thy,10,768,6,2019
+ Netherlands,Donyell Malen,7,725,6,2019
+ Netherlands,Noni Madueke,3,524,4,2019
+ Netherlands,Davy Klaassen,6,490,5,2019
+ Netherlands,Oussama Tannane,8,680,4,2019
+ Netherlands,Vaclav Cerny,10,824,4,2019
+ Netherlands,Vangelis Pavlidis,10,927,4,2019
+ Netherlands,Henk Veerman,10,916,8,2019
+ Netherlands,Abdou Harroui,10,834,4,2019
+ Netherlands,Rai Vloet,10,853,7,2019
+ Netherlands,Lassina Traore,6,506,7,2019
+ Netherlands,Georgios Giakoumakis,10,911,9,2019
+USA,Alex Pozuelo,24,2247,9,2020
+USA,Kevin Molino,16,1430,11,2020
+USA,Damir Kreilach,20,1872,8,2020
+USA,Bradley Wright-Phillips,15,1190,8,2020
+USA,Diego Rossi,19,1816,14,2020
+USA,Nicolas Lodeiro,21,2014,8,2020
+USA,Raul Ruidiaz,18,1626,14,2020
+USA,Daryl Dike,17,1482,8,2020
+USA,Gyasi Zardes,22,2034,14,2020
+USA,Cristian Pavon,22,2106,10,2020
+USA,Chris Mueller,19,1726,10,2020
+USA,Romell Quioto,18,1676,9,2020
+USA,Jordan Morris,19,1927,11,2020
+USA,Kacper Przybylko,24,2216,8,2020
+USA,Gustavo Bou,17,1701,8,2020
+USA,Robert Beric,22,2063,13,2020
+USA,Ayo Akinola,11,1195,9,2020
+USA,Jeremy Ebobisse,11,1189,8,2020
+USA,Diego Valeri,19,1864,8,2020
+USA,Chris Wondolowski,14,1509,8,2020
+Spain,Youssef   En-Nesyri,5,465,4,2020
+Spain,Portu ,6,691,4,2020
+Spain,Karim Benzema,8,741,4,2020
+Spain,Carlos Soler,6,599,4,2020
+Spain,Cristian Tello,7,629,4,2020
+Spain,Mikel Oyarzabal,9,736,7,2020
+Spain,Esteban Burgos,6,589,3,2020
+Spain,Lucas Perez,7,637,3,2020
+Spain,Lionel Messi,8,824,4,2020
+Spain,Joao Felix,6,641,5,2020
+Spain,Luis Suarez,5,387,5,2020
+Spain,Paco Alcacer,9,693,5,2020
+Spain,Morales ,10,758,4,2020
+Spain,Federico Valverde,6,566,3,2020
+Spain,Antoine Griezmann,8,634,3,2020
+Spain,Iago Aspas,11,1056,5,2020
+Spain,Kike GarcIa,9,790,3,2020
+Spain,Angel Rodriguez,3,501,4,2020
+Spain,Ansu Fati,6,451,4,2020
+Spain,Gerard Moreno,9,822,6,2020
+Italy,Roberto Soriano,9,849,5,2020
+Italy,Francesco Caputo,6,567,5,2020
+Italy,Joao Pedro,9,831,6,2020
+Italy,Alejandro Gomez,9,643,4,2020
+Italy,Andrea Belotti,8,754,7,2020
+Italy,Gaetano Castrovilli,9,755,4,2020
+Italy,Giovanni Simeone,8,664,5,2020
+Italy,Domenico Berardi,8,766,4,2020
+Italy,Henrikh Mkhitaryan,9,825,5,2020
+Italy,Jordan Veretout,9,769,4,2020
+Italy,Gervinho ,8,669,4,2020
+Italy,Lautaro MartInez,7,656,5,2020
+Italy,Luis Muriel,3,264,4,2020
+Italy,Cristiano Ronaldo,5,397,8,2020
+Italy,Romelu Lukaku,6,580,7,2020
+Italy,Dries Mertens,9,616,4,2020
+Italy,Ciro Immobile,6,571,5,2020
+Italy,Fabio Quagliarella,8,694,5,2020
+Italy,Zlatan Ibrahimovic,6,557,10,2020
+Italy,Hirving Lozano,9,568,4,2020
+Germany,Lucas Alario,6,561,7,2020
+Germany,Bas Dost,8,732,3,2020
+Germany,Serge Gnabry,7,626,4,2020
+Germany,Wout Weghorst,8,778,6,2020
+Germany,Dani Olmo,9,834,4,2020
+Germany,Ellyes Skhiri,8,709,3,2020
+Germany,Thomas Muller,9,822,4,2020
+Germany,Max Kruse,7,669,6,2020
+Germany,Andre Silva,9,802,7,2020
+Germany,Andre Hahn,7,547,3,2020
+Germany,Jean-Philippe Mateta,9,723,7,2020
+Germany,Andrej Kramaric,5,481,7,2020
+Germany,Niclas Fullkrug,4,293,4,2020
+Germany,Lars Stindl,7,567,4,2020
+Germany,Daniel Caligiuri,9,841,3,2020
+Germany,Erling Haaland,7,683,10,2020
+Germany,Jhon Cordoba,5,493,3,2020
+Germany,Nils Petersen,6,608,4,2020
+Germany,Matheus Cunha,9,857,6,2020
+Germany,Robert Lewandowski,7,672,12,2020
+France,Ludovic Blas,11,990,4,2020
+France,Stephane Bahoken,8,644,5,2020
+France,Karl Toko,9,822,5,2020
+France,Kevin Volland,9,709,5,2020
+France,Andy Delort,11,902,6,2020
+France,Burak Yilmaz,10,903,6,2020
+France,Ibrahima Niane,6,482,6,2020
+France,Boulaye Dia,9,772,8,2020
+France,Moise Kean,6,454,4,2020
+France,Ignatius Ganago,6,452,4,2020
+France,Irvin Cardona,6,627,5,2020
+France,Wissam Ben,10,879,6,2020
+France,Florian Thauvin,10,835,4,2020
+France,Amine Gouiri,9,903,4,2020
+France,Jonathan Bamba,11,1061,4,2020
+France,Ludovic Ajorque,11,1008,4,2020
+France,Kylian Mbappe-Lottin,7,610,9,2020
+France,Mama Balde,8,669,4,2020
+France,Memphis Depay,9,903,5,2020
+France,Gael Kakuta,10,786,5,2020
+England,James Ward-Prowse,10,960,4,2020
+England,Bruno Fernandes,9,809,7,2020
+England,Dominic Calvert-Lewin,10,940,10,2020
+England,Timo Werner,10,876,4,2020
+England,Callum Wilson,9,835,7,2020
+England,Diogo Jota,5,530,5,2020
+England,Wilfried Zaha,8,779,5,2020
+England,Jack Grealish,9,872,5,2020
+England,Raul Jimenez,10,872,4,2020
+England,Jarrod Bowen,10,845,4,2020
+England,Patrick Bamford,10,898,7,2020
+England,Mohamed Salah,9,831,8,2020
+England,Jamie Vardy,8,780,8,2020
+England,Harry Kane,10,956,7,2020
+England,Danny Ings ,7,662,5,2020
+England,Neal Maupay,9,786,4,2020
+England,Ollie Watkins,9,872,6,2020
+England,Sadio Mane,8,785,4,2020
+England,Riyad Mahrez,7,612,4,2020
+England,Son Heung-Min,10,861,9,2020
+Brazil,Luciano ,16,1588,11,2020
+Brazil,Vinicius ,16,1348,7,2020
+Brazil,Marinho ,17,1662,13,2020
+Brazil,Raphael Veiga,10,914,6,2020
+Brazil,Luiz Adriano,14,1235,7,2020
+Brazil,Cleber ,17,1336,5,2020
+Brazil,German Cano,19,1733,10,2020
+Brazil,Pepe,15,1397,7,2020
+Brazil,Brenner None,9,1063,6,2020
+Brazil,Matheus Babi,17,1709,6,2020
+Brazil,Nene ,18,1434,7,2020
+Brazil,Bruno Henrique,15,1412,5,2020
+Brazil,Thiago Galhardo,16,1605,15,2020
+Brazil,Keno ,19,1829,10,2020
+Brazil,Alerrandro ,10,861,5,2020
+Brazil,Wellington Paulista,13,1208,6,2020
+Brazil,Claudinho ,19,1657,10,2020
+Brazil,Robson,22,1937,6,2020
+Brazil,Pedro ,12,1207,10,2020
+Brazil,Renato Kayzer,17,1639,7,2020
+ Netherlands,Donny van de Beek,22,2023,8,2020
+ Netherlands,Teun Koopmeiners,25,2336,11,2020
+ Netherlands,Cantalapiedra ,21,1933,7,2020
+ Netherlands,Bryan Linssen,25,2256,14,2020
+ Netherlands,Matavz ,24,2157,12,2020
+ Netherlands,Oussama Idrissi,25,2047,13,2020
+ Netherlands,Dusan Tadic,25,2287,11,2020
+ Netherlands,Steven Berghuis,24,2226,15,2020
+ Netherlands,Chidera Ejuke,24,2147,9,2020
+ Netherlands,Myron Boadu,24,2099,14,2020
+ Netherlands,Klaas-Jan Huntelaar,6,938,9,2020
+ Netherlands,Vangelis Pavlidis,25,2265,11,2020
+ Netherlands,Michael de Leeuw,26,2383,9,2020
+ Netherlands,Donyell Malen,14,1245,11,2020
+ Netherlands,Haris Vuckic,23,2194,11,2020
+ Netherlands,Gyrano Kerk,24,2155,10,2020
+ Netherlands,Quincy Promes,18,1573,12,2020
+ Netherlands,Denzel Dumfries,25,2363,7,2020
+ Netherlands,Cyriel Dessers ,26,2461,15,2020
+ Netherlands,Cody Gakpo,14,1557,7,2020
