@@ -9,11 +9,12 @@ I then proceeded to use Python and Pandas to filter and clean the Provided Datas
 Clean, Filter, and Analyze the Large Dataset
 
 # Dataset Used
-The Dataset used contains a list of the best goalscorers in the top Football European leagues
-The set contains 15 columns and over 400 rows
+The Dataset used contains a list of the best goalscorers in the top Football European leagues.
+The set contains 15 columns and over 400 rows.
 [Goalscorers.csv](https://github.com/user-attachments/files/15523835/Goalscorers.csv)
-A Filtered dataset VVas used to make analysis faster and easier
-The set contains 6 columns and over 400 rows
+
+A Filtered dataset VVas used to make analysis faster and easier.
+The set contains 6 columns and over 400 rows.
 [Altered.csv](https://github.com/user-attachments/files/15831700/Altered.csv)
 
 
