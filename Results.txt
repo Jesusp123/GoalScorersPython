@@ -1,0 +1,133 @@
+Original Unaltered DataSet
+  Country   League   Club       Player Names  Matches_Played  Substitution   Mins  Goals     xG  xG Per Avg Match  Shots  OnTarget  Shots Per Avg Match  On Target Per Avg Match  Year
+0   Spain  La Liga  (BET)    Juanmi Callejon              19             16  1849     11   6.62              0.34     48        20                 2.47                     1.03  2016
+1   Spain  La Liga  (BAR)  Antoine Griezmann              36              0  3129     16  11.86              0.36     88        41                 2.67                     1.24  2016
+2   Spain  La Liga  (ATL)        Luis Suarez              34              1  2940     28  23.21              0.75    120        57                 3.88                     1.84  2016
+3   Spain  La Liga  (CAR)       Ruben Castro              32              3  2842     13  14.06              0.47    117        42                 3.91                     1.40  2016
+4   Spain  La Liga  (VAL)      Kevin Gameiro              21             10  1745     13  10.65              0.58     50        23                 2.72                     1.25  2016 
+
+Filtered and Turned into DataFrame
+  Country       Player Names  Matches_Played  Mins  Goals  Year
+0   Spain    Juanmi Callejon              19  1849     11  2016
+1   Spain  Antoine Griezmann              36  3129     16  2016
+2   Spain        Luis Suarez              34  2940     28  2016
+3   Spain       Ruben Castro              32  2842     13  2016
+4   Spain      Kevin Gameiro              21  1745     13  2016 
+
+Add Nevv Column by dividing data in Other Columns
+  Country       Player Names  Matches_Played  Mins  Goals  Year  Goals Every_Minutes
+0   Spain    Juanmi Callejon              19  1849     11  2016           168.090909
+1   Spain  Antoine Griezmann              36  3129     16  2016           195.562500
+2   Spain        Luis Suarez              34  2940     28  2016           105.000000
+3   Spain       Ruben Castro              32  2842     13  2016           218.615385
+4   Spain      Kevin Gameiro              21  1745     13  2016           134.230769 
+
+Filtered out Data Based on Specific Countries:England,Germany,Italy,Spain
+     Country       Player Names  ...  Year  Goals Every_Minutes
+0      Spain    Juanmi Callejon  ...  2016           168.090909
+1      Spain  Antoine Griezmann  ...  2016           195.562500
+2      Spain        Luis Suarez  ...  2016           105.000000
+3      Spain       Ruben Castro  ...  2016           218.615385
+4      Spain      Kevin Gameiro  ...  2016           134.230769
+..       ...                ...  ...   ...                  ...
+615  England        Neal Maupay  ...  2020           196.500000
+616  England      Ollie Watkins  ...  2020           145.333333
+617  England         Sadio Mane  ...  2020           196.250000
+618  England       Riyad Mahrez  ...  2020           153.000000
+619  England      Son Heung-Min  ...  2020            95.666667
+
+[380 rows x 7 columns] 
+
+Sorts data by Goals and Then by Mins
+     Country               Player Names  Matches_Played  Mins  Goals  Year  Goals Every_Minutes
+12     Spain               Lionel Messi              32  2910     37  2016            78.648649
+391    Italy              Ciro Immobile              36  3371     36  2019            93.638889
+195    Spain               Lionel Messi              29  2849     36  2018            79.138889
+408  Germany         Robert Lewandowski              31  2783     34  2019            81.852941
+107    Spain               Lionel Messi              32  3123     33  2017            94.636364
+385    Italy          Cristiano Ronaldo              33  3127     31  2019           100.870968
+54   Germany  Pierre-Emerick Aubameyang              31  2894     31  2016            93.354839
+46   Germany         Robert Lewandowski              31  2871     30  2016            95.700000
+32     Italy                 Edin Dzeko              33  3194     29  2016           110.137931
+137    Italy               Mauro Icardi              34  3096     29  2017           106.758621 
+
+Players VVith over 20 Goals
+     Country               Player Names  Matches_Played  Mins  Goals  Year  Goals Every_Minutes
+12     Spain               Lionel Messi              32  2910     37  2016            78.648649
+391    Italy              Ciro Immobile              36  3371     36  2019            93.638889
+195    Spain               Lionel Messi              29  2849     36  2018            79.138889
+408  Germany         Robert Lewandowski              31  2783     34  2019            81.852941
+107    Spain               Lionel Messi              32  3123     33  2017            94.636364
+385    Italy          Cristiano Ronaldo              33  3127     31  2019           100.870968
+54   Germany  Pierre-Emerick Aubameyang              31  2894     31  2016            93.354839
+46   Germany         Robert Lewandowski              31  2871     30  2016            95.700000
+32     Italy                 Edin Dzeko              33  3194     29  2016           110.137931
+137    Italy               Mauro Icardi              34  3096     29  2017           106.758621 
+
+Resets index to 0
+   Country               Player Names  Matches_Played  Mins  Goals  Year  Goals Every_Minutes
+0    Spain               Lionel Messi              32  2910     37  2016            78.648649
+1    Italy              Ciro Immobile              36  3371     36  2019            93.638889
+2    Spain               Lionel Messi              29  2849     36  2018            79.138889
+3  Germany         Robert Lewandowski              31  2783     34  2019            81.852941
+4    Spain               Lionel Messi              32  3123     33  2017            94.636364
+5    Italy          Cristiano Ronaldo              33  3127     31  2019           100.870968
+6  Germany  Pierre-Emerick Aubameyang              31  2894     31  2016            93.354839
+7  Germany         Robert Lewandowski              31  2871     30  2016            95.700000
+8    Italy                 Edin Dzeko              33  3194     29  2016           110.137931
+9    Italy               Mauro Icardi              34  3096     29  2017           106.758621 
+
+Prints Data from French League Players
+    Country      Player Names  Matches_Played  Mins  Goals  Year  Goals Every_Minutes
+240  France    Angel Di Maria              28  2418     12  2018           201.500000
+241  France        Remi Oudin              32  2719     10  2018           271.900000
+242  France      Nicolas Pepe              37  3533     22  2018           160.590909
+243  France     Emiliano Sala              16  1434     12  2018           119.500000
+244  France    Jonathan Bamba              35  3190     13  2018           245.384615
+245  France      M'Baye Niang              19  1911     11  2018           173.727273
+246  France           Neymar               16  1517     15  2018           101.133333
+247  France    Edinson Cavani              20  1747     18  2018            97.055556
+248  France  Stephane Bahoken              31  2541     11  2018           231.000000
+249  France        Max Gradel              36  3446     11  2018           313.272727 
+
+Prints all Countries in altered Dataset
+['Spain' 'Italy' 'Germany' 'England' 'Brazil' 'France' 'USA' 'Portugal '
+ ' Netherlands'] 
+
+Sorted Data based on Goals Every_Minutes
+          Country          Player Names  Matches_Played  Mins  Goals  Year  Goals Every_Minutes
+553         Italy     Cristiano Ronaldo               5   397      8  2020            49.625000
+558         Italy    Zlatan Ibrahimovic               6   557     10  2020            55.700000
+579       Germany    Robert Lewandowski               7   672     12  2020            56.000000
+361     Portugal       Haris  Seferovic               2   337      6  2019            56.166667
+552         Italy           Luis Muriel               3   264      4  2020            66.000000
+596        France  Kylian Mbappe-Lottin               7   610      9  2020            67.777778
+575       Germany        Erling Haaland               7   683     10  2020            68.300000
+571       Germany       Andrej Kramaric               5   481      7  2020            68.714286
+340     Portugal                  Pote                7   631      9  2019            70.111111
+498   Netherlands        Lassina Traore               6   506      7  2019            72.285714
+Returns bundesliga Data Sorted by Goals
+     Country               Player Names  Matches_Played  Mins  Goals  Year  Goals Every_Minutes
+408  Germany         Robert Lewandowski              31  2783     34  2019            81.852941
+54   Germany  Pierre-Emerick Aubameyang              31  2894     31  2016            93.354839
+46   Germany         Robert Lewandowski              31  2871     30  2016            95.700000
+140  Germany         Robert Lewandowski              24  2247     29  2017            77.482759
+401  Germany                Timo Werner              33  2744     28  2019            98.000000
+58   Germany            Anthony Modeste              34  3075     25  2016           123.000000
+238  Germany         Robert Lewandowski              33  3090     22  2018           140.454545
+48   Germany                Timo Werner              28  2496     21  2016           118.857143
+228  Germany               Paco Alcacer              11  1312     18  2018            72.888889
+233  Germany             Ishak Belfodil              20  1965     18  2018           109.166667 
+
+Returns Premier League Data Sorted by Goals
+     Country               Player Names  Matches_Played  Mins  Goals  Year  Goals Every_Minutes
+62   England                 Harry Kane              29  2636     29  2016            90.896552
+61   England              Romelu Lukaku              36  3448     25  2016           137.920000
+60   England             Alexis Sanchez              36  3385     24  2016           141.041667
+443  England                Jamie Vardy              34  3271     23  2019           142.217391
+453  England                 Danny Ings              32  3009     22  2019           136.772727
+273  England  Pierre-Emerick Aubameyang              30  2905     22  2018           132.045455
+267  England                 Sadio Mane              35  3236     22  2018           147.090909
+263  England              Mohamed Salah              37  3417     22  2018           155.318182
+454  England  Pierre-Emerick Aubameyang              35  3392     22  2019           154.181818
+271  England              Sergio Aguero              31  2566     21  2018           122.190476
